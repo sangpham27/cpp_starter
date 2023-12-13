@@ -1,5 +1,9 @@
 {
     "editor.defaultFormatter": "ms-vscode.cpptools",
     "editor.formatOnSave": true,
-    "workbench.colorTheme": "Visual Studio Dark - C++"
+    "workbench.colorTheme": "Visual Studio Dark - C++",
+    "files.associations": {
+        "iostream": "cpp",
+        "ostream": "cpp"
+    }
 }
